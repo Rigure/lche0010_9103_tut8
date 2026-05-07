@@ -1,15 +1,15 @@
   # **Quiz 8**
 
 ##  **Part 1: Imaging Technique Inspiration**
-Unfortunately, it occurred to me a video called "sm666" on niconico, which scared me a lot when I was still a primary school student.   
+Unfortunately, the first thing that came to mind was a video called "sm666" on niconico, which scared me a lot when I was still a primary school student.   
 
 It shows a website which gets more and more horrible if you keep on refreshing it. That's the first inspiration —— change when refreshing.   
 
-I also think this video is a kind of glitch art. Texts get corrupted during refreshing. Besides, there will be a hand grabbing the progress bar in the end. 
+I also think this video is a kind of glitch art. The text gets progressively corrupted during refreshing. Besides, there will be a hand grabbing the progress bar in the end. 
 
 These are unconventional ideas that create striking visual effects.  
 
-> These are screenshots of that horrible vedio (I tried to find other websites with same functions to replace it so that I won't scare dear Carlos, but I failed :(  Sorry Carlos )
+> These are screenshots of that horrible video *(I tried to find other websites with same functions to replace it so that I won't scare dear Carlos, but I failed :(  Sorry Carlos )*
 
 > The original website
 <img src="assets/screenshot1.png" width="400">
